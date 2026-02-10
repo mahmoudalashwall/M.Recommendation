@@ -42,5 +42,10 @@ Based on these factors, the system recommends suitable specializations such as:
 ```bash
 git clone https://github.com/mahmoudalashwall/M.Recommendation.git
 ```
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 
