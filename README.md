@@ -37,15 +37,4 @@ Based on these factors, the system recommends suitable specializations such as:
 - Format: CSV
 - Source: Simulated or anonymized academic data for educational purposes
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-```bash
-git clone https://github.com/mahmoudalashwall/M.Recommendation.git D:\M.Recommendation
-```
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 
